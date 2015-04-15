@@ -13,6 +13,7 @@
 
 # Trucs sociaux
 0.0.0.0 linkedin.com
+0.0.0.0 pinterest.com
 
 # Publicitaires et statistiques
 0.0.0.0 google-analytics.com
@@ -34,6 +35,16 @@
 0.0.0.0 ezacus.net
 0.0.0.0 chartbeat.com
 0.0.0.0 yandex.ru
+0.0.0.0 krxd.net
+0.0.0.0 criteo.net
+0.0.0.0 tradelab.fr
+0.0.0.0 achetezfacile.com
+0.0.0.0 horyzon-media.com
+0.0.0.0 omnitagjs.com
+0.0.0.0 adxcore.com
+0.0.0.0 taboola.com
+0.0.0.0 adikteev.com
+0.0.0.0 googletagmanager.com
 
 #192.168.1.2 patate.in harvey
 #
